@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6bb576b8-b70e-4099-bcec-befe46ae075a">
+  <producedTypes>
+    <objectType typeId="4eda5eab-3a2c-4d85-acbe-4c2c4d54bc1a" valueTypeId="f976894c-5a2b-4626-8a05-e016f3b8792f"/>
+  </producedTypes>
+  <name>ТестированиеСервисаAINSYS</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тестирование сервиса AINSYS</value>
+  </synonym>
+  <comment>Внешняя обработка</comment>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="8a46d73e-dc61-4dae-a145-2e74367ef5bb"/>
+  <defaultForm>ExternalDataProcessor.ТестированиеСервисаAINSYS.Form.Форма</defaultForm>
+  <forms uuid="0671dc26-6ba2-4e70-948a-e5df897e4ec8">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
